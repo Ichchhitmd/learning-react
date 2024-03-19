@@ -105,3 +105,13 @@ a {
     color-scheme: dark;
   }
 }
+
+.cuteDog {
+  height: 100px;
+  width: 100px;
+}
+
+.dogEating {
+  height: 150px;
+  width: 150px;
+}
